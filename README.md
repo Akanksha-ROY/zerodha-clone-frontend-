@@ -14,7 +14,7 @@ This is a personal project made to improve my skills in **React component design
 
 - ⚛️ React
 - 🌐 React Router DOM
-- 💅 CSS (or your preferred styling method)
+- 💅 CSS
 
 
 
