@@ -1,26 +1,26 @@
-# 💹 Zerodha Clone (Frontend)
+#  Zerodha Clone (Frontend)
 
 A frontend-only clone of the popular stock trading platform Zerodha, built using **React** and **React Router**. This project focuses on replicating the user interface and navigation flow of Zerodha.
 
 ---
 
-## 🔍 About the Project
+##  About the Project
 
 This is a personal project made to improve my skills in **React component design**, **routing**, and **UI replication**. The goal is to recreate the look and feel of Zerodha's official website — including pages like homepage, login, and signup — using only frontend technologies.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-- ⚛️ React
-- 🌐 React Router DOM
-- 💅 CSS
+-  React
+-  React Router DOM
+-  CSS
 
 
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 zerodha-clone/
@@ -41,7 +41,7 @@ zerodha-clone/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run this project locally:
 
@@ -60,16 +60,16 @@ npm start
 
 ---
 
-## 📌 Features Implemented
+##  Features Implemented
 
-- ✅ Zerodha-style homepage and UI
-- ✅ Responsive layout
-- ✅ Page routing using React Router
-- ✅ Reusable component structure
+-  Zerodha-style homepage and UI
+- Responsive layout
+-  Page routing using React Router
+-  Reusable component structure
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 
 While building this clone, I practiced:
 
@@ -80,12 +80,12 @@ While building this clone, I practiced:
 
 ---
 
-## 🙋‍♀️ Author
+##  Author
 
-Made with ❤️ by **Akanksha**  
+ **Akanksha**  
 GitHub: https://github.com/Akanksha-ROY
 ---
 
-## 📄 License
+##  License
 
 This project is for educational and portfolio purposes only. It is not affiliated with or endorsed by Zerodha.
